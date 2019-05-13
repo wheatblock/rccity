@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 欢迎来到和谐城服务器！
+[本服务器正在建设中！]
 
-You can use the [editor on GitHub](https://github.com/wheatblock/rccity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+如果你遇到问题或是有好的建议，欢迎发表主题[点这里](https://github.com/wheatblock/rccity/issues)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 加入服务器
+- [下载启动器 by WheatBlock](down/rccity-launcher.zip)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wheatblock/rccity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 服务器规定
+- 注册帐户须用有效邮件地址，不得转借、出售等。
+- 非建筑队用户不可以在主城进行搭建。如果你想参与到建设工作中，请发主题[点这里](https://github.com/wheatblock/rccity/issues)。
+- 游戏内聊天可以适当使用非规范语言乃至少量粗鄙之语，但严禁恶意攻击谩骂（尤其是问候家人者），违者可最高永久禁止游戏内聊天。
+- 偶尔小熊一下可以，但是么，过分了的话全组OP乃至全服玩家将一起去熊你
