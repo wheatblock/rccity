@@ -7,13 +7,11 @@
 - [下载启动器 by WheatBlock](down/rccity-launcher.zip)
 
 ### 服务器组件列表
-名称 | 简介
----- | ----
-IASAuth | 新一代集成认证登陆组件
-WTeam | 组队组件
-WBSky | 空岛战争自研版
-WBBed | 起床战争自研版
-FPSDream | 主题FPS
+- IASAuth | 新一代集成认证登陆组件
+- WTeam | 组队组件
+- WBSky | 空岛战争自研版
+- WBBed | 起床战争自研版
+- FPSDream | 主题FPS
 
 ### 服务器规定
 - 注册帐户须用有效邮件地址，不得转借、出售等。
