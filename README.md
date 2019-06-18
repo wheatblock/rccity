@@ -2,7 +2,7 @@
 **[本服务器正在建设中！]**
 
 如果你遇到问题或是有好的建议，欢迎发表主题[点这里](https://github.com/wheatblock/rccity/issues)  
-服务器QQ群号码：458517226
+服务器QQ群号码：[458517226](https://jq.qq.com/?_wv=1027&k=5R1HMHp)
 
 ### 加入服务器
 - [下载启动器 by WheatBlock](down/rccity-launcher.zip)
