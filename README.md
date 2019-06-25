@@ -5,7 +5,8 @@
 服务器QQ群号码：[458517226](https://jq.qq.com/?_wv=1027&k=5R1HMHp)
 
 ### 加入服务器
-- [下载启动器 by WheatBlock](down/rccity-launcher.zip)
+**请进群下载启动器。**  
+- [下载启动器 by WheatBlock](down/makku.zip)
 
 ### 服务器组件列表
 
